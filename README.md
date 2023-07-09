@@ -1,4 +1,4 @@
-                                Welcome to my GitHub account!
+                                     Welcome to my GitHub account!
 
 I am a front-end web developer with a strong focus on HTML, CSS and JavaScript. 
 I have experience in using Bootstrap 5 and Tailwind CSS to create responsive and visually appealing websites.
